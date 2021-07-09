@@ -1,22 +1,27 @@
-# Flutter Chat UI Demo
+# Mulia Rifai Aroyan Chat App
 
-A Flutter app to showcase Chat UI .
+Widya EDU Chat Demo
 
 # Demo
-<img height="480px" src="https://github.com/flutter-devs/flutter_chat_ui_demo/blob/master/screens/demo.gif">
+<img height="480px" src="https://pinterinternet.com/wp-content/uploads/screen.gif">
 
-
-
-# Android Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_chat_ui_demo/blob/master/screens/android1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_chat_ui_demo/blob/master/screens/android2.jpg"> 
 
 
 # iOS Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_chat_ui_demo/blob/master/screens/iphone1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_chat_ui_demo/blob/master/screens/iphone2.jpg">
-
+<img height="480px" src="https://pinterinternet.com/wp-content/uploads/1.PNG"> 
+<img height="480px" src="https://pinterinternet.com/wp-content/uploads/2.PNG"> 
+<img height="480px" src="https://pinterinternet.com/wp-content/uploads/3.PNG"> 
+<img height="480px" src="https://pinterinternet.com/wp-content/uploads/4.PNG"> 
 
 
 ## Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+
+## message_dataset.json
+data diambil dari url
+
+## Library
+- DIO
